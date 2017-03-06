@@ -1,8 +1,8 @@
 # form-table
 control the table head title
 ## method
-1.按钮绑定，点击控制显示的表头 showSelectField
-2.自动执行 reflashColumn方法  参数为表格ID
+ 1. 按钮绑定，点击控制显示的表头 showSelectField
+ 2. 自动执行 reflashColumn方法  参数为表格ID
 ```
 $(function () {
         // bind the button and use the table id which your want show or hide 
